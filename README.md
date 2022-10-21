@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center">
-  I'm EliteVeteran, a Professional Web & Mobile & Blockchain developer 👨‍💻
+  I'm Dragan Leonidov, a Professional Web & Mobile & Blockchain developer 👨‍💻
   working remotely since 2013 🚀
 </h2>
 
