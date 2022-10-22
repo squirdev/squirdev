@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./global-software-developer-talent.jpeg"
+    src="https://careerist.ru/news/wp-content/uploads/2022/07/web1-810x539.png"
     align="center"
     style="width: 70%"
   />
