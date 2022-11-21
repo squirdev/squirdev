@@ -1,9 +1,9 @@
 <div align="center">
-  <img
+<!--   <img
     src="./global-software-developer-talent.png"
     align="center"
     style="width: 70%"
-  />
+  /> -->
 </div>
 
 <h2 align="center">
