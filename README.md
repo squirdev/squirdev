@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center">
-  I'm  a Professional Web & Mobile & Blockchain developer 👨‍💻
+  I'm  a Professional Web & Mobile developer 👨‍💻
   working remotely since 2013 🚀
 </h2>
 
