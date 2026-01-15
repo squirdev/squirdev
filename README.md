@@ -11,8 +11,8 @@
 </h2>
 
 <h4>🔭 I’m currently working on [Github](https://github.com/squirdev) - 🌱 I’m
-  currently learning Hyper-ledger and Kubernetes - ❓ Ask me about anything
-  related to MERN stack, Mobile App, Blockchain, and related technologies - ⚡ Fun
+  currently learning Ruby on Rails and AI - ❓ Ask me about anything
+  related to MERN stack, Golang, Python, and related technologies - ⚡ Fun
   fact: I Speed id the most important thing in Development</h4>
 
 <br />
