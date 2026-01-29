@@ -6,11 +6,11 @@
   /> -->
 </div>
 
-<h2 align="center">
+<h1 align="center">
   Full-stack Engineer
-</h2>
+</h1>
 
-<h4>I don’t think I’m a full-stack engineer, but apparently everyone else does — and they even added ‘senior’.</h4>
+<h3>I don’t think I’m a full-stack engineer, but apparently everyone else does — and they even added ‘senior’.😂😂😂</h3>
 
 <br />
 
