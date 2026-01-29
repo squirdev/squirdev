@@ -10,10 +10,7 @@
   Full-stack Engineer
 </h2>
 
-<h4>🔭 I’m currently working on [Github](https://github.com/squirdev) - 🌱 I’m
-  currently learning Ruby on Rails and AI - ❓ Ask me about anything
-  related to MERN stack, Golang, Python, and related technologies - ⚡ Fun
-  fact: I Speed id the most important thing in Development</h4>
+<h4>I don’t think I’m a full-stack engineer, but apparently everyone else does — and they even added ‘senior’.</h4>
 
 <br />
 
